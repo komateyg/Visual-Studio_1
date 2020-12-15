@@ -1,0 +1,10 @@
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Debug\Ui design idea in Windows form Application Visua.exe.config
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Debug\Ui design idea in Windows form Application Visua.exe
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Debug\Ui design idea in Windows form Application Visua.pdb
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui design idea in Windows form Application Visua.csprojAssemblyReference.cache
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui_design_idea_in_Windows_form_Application_Visua.Form1.resources
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui_design_idea_in_Windows_form_Application_Visua.Properties.Resources.resources
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui design idea in Windows form Application Visua.csproj.GenerateResource.cache
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui design idea in Windows form Application Visua.csproj.CoreCompileInputs.cache
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui design idea in Windows form Application Visua.exe
+E:\Git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Debug\Ui design idea in Windows form Application Visua.pdb
