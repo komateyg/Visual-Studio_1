@@ -1,0 +1,9 @@
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Release\Ui design idea in Windows form Application Visua.exe.config
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Release\Ui design idea in Windows form Application Visua.exe
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\bin\Release\Ui design idea in Windows form Application Visua.pdb
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui_design_idea_in_Windows_form_Application_Visua.Form1.resources
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui_design_idea_in_Windows_form_Application_Visua.Properties.Resources.resources
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui design idea in Windows form Application Visua.csproj.GenerateResource.cache
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui design idea in Windows form Application Visua.csproj.CoreCompileInputs.cache
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui design idea in Windows form Application Visua.exe
+D:\Blacksheep_git\Visual-Studio_1\Ui design idea in Windows form Application Visua\Ui design idea in Windows form Application Visua\obj\Release\Ui design idea in Windows form Application Visua.pdb
