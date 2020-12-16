@@ -2,3 +2,8 @@ D:\Blacksheep_git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Wi
 D:\Blacksheep_git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.Properties.Resources.resources
 D:\Blacksheep_git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.csproj.GenerateResource.cache
 D:\Blacksheep_git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.csproj.CoreCompileInputs.cache
+E:\Git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.csprojAssemblyReference.cache
+E:\Git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.Form1.resources
+E:\Git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.Properties.Resources.resources
+E:\Git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.csproj.GenerateResource.cache
+E:\Git\Visual-Studio_1\Project _1\Winform_App_Visual_C\obj\Release\Winform_App_Visual_C.csproj.CoreCompileInputs.cache
